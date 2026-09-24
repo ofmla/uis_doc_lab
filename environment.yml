@@ -7,6 +7,4 @@ dependencies:
   - python=3.10
   - numpy
   - matplotlib
-  - notebook=6.5
-  - ipywidgets=7.7
-  - widgetsnbextension
+  - ipympl
