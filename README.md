@@ -1,9 +1,9 @@
 # Concurso docente UIS 2026
-Este repositorio contiene el material correspondiente a la sesión docente: Introducción al método gravimetrico. El objetivo del notebook es:
+Este repositorio contiene el material correspondiente a la sesión docente: Introducción al método gravimetrico. Los objetivo del notebook son:
 
 1. **presentar** de forma rápida e objetiva el método gravimetrico
 2. **mostrar** através de ejemplos simples el uso practico de Python para modelado de anomalias gravimetricas
-3. **exponer** a los estudantes el conceptos de **no unicidad**.
+3. **exponer** a los estudiantes el concepto de "**no unicidad**".
 
 **Professor:** [Oscar Mojica](http://github.com/ofmla)
 
